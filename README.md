@@ -1,5 +1,5 @@
 # 🌟🌾 **BOON FOR FARMERS** 🌾🌟  
-# 🚀 [CLICK HERE TO LAUNCH THE CHATBOT](https://agriculture-chatbot-hydqjafiydwvcwfwsssxqg.streamlit.app/) 🚀
+# 🚀 [CLICK HERE TO LAUNCH THE CHATBOT](https://agriculture-chatbot-publicboon-for-farmers-hrd2qsckcpmsmvlzdh9.streamlit.app/) 🚀
 
 ---
 
